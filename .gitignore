@@ -1,0 +1,39 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary, coverage and profiles
+*.test
+*.out
+*.coverprofile
+*.prof
+
+# Build output directories
+/bin/
+/build/
+/dist/
+/out/
+
+# Dependency directories (uncomment if you vendor dependencies)
+# /vendor/
+
+# Go workspace file
+go.work
+
+# Godep
+Godeps/
+
+# Editor/IDE files
+.vscode/
+.idea/
+*.swp
+*~
+.project
+.metadata
+
+# OS files
+.DS_Store
+Thumbs.db
